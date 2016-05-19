@@ -1,0 +1,28 @@
+{
+  "name": "angular-migration-tutorial-api-server",
+  "version": "1.0.0",
+  "description": "API server for sample project management app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shripalsoni04/angular-migration-tutorial-api-server.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Shripal Soni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shripalsoni04/angular-migration-tutorial-api-server/issues"
+  },
+  "homepage": "https://github.com/shripalsoni04/angular-migration-tutorial-api-server",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4",
+    "lodash": "^4.12.0"
+  }
+}
